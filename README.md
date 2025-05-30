@@ -1,4 +1,4 @@
-    # LHCP-ASR
+# LHCP-ASR
 LHCP dataset v1.0  
 www.mllp.upv.es/lhcp-asr
 
