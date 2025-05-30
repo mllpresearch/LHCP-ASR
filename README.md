@@ -40,13 +40,13 @@ GET THE DATA
 
 Download the full LHCP-ASR speech and text corpus from:
 
-https://www.mllp.upv.es/lhcp-dataset/lhcp_v1.0.tar.gz  
+https://www.mllp.upv.es/lhcp-asr/lhcp_v1.0.tar.gz  
 Size: 79 GiB  (compressed file)  
 SHA-256 checksum: 09f423b7bfa042efbd0614fb23b7ade4b9b8da0e60aa6355564a631a5be98cd9
 
 Download the revision guidelines from:
 
-https://www.mllp.upv.es/lhcp-dataset/lhcp_guidelines_v1.0.pdf  
+https://www.mllp.upv.es/lhcp-asr/lhcp_guidelines_v1.0.pdf  
 SHA-256 checksum: f0c27177f6baa731b2d84fd98b4b7775111bb4d406862a5932b3a48c6a3a2738
 
 
