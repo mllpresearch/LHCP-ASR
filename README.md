@@ -167,6 +167,6 @@ Use of the CERN Document Server service (hereafter "CDS") denotes agreement with
 * CERN excludes and disclaims all liability for damage resulting from users' access, or inability to access, or use of CDS.
 * These terms and conditions of use are subject to change by CERN at any time and without notice, other than through posting the updated terms on the CDS website. Any revised terms and conditions of use shall become effective immediately upon posting.
 
-If you have any questions or comments with respect to CDS, or if you are unsure whether your intended use is in line with these Terms and Conditions, or if you seek permission for a use that does not fall within these Terms and Conditions, please contact support. 
+If you have any questions or comments with respect to CDS, or if you are unsure whether your intended use is in line with these Terms and Conditions, or if you seek permission for a use that does not fall within these Terms and Conditions, please contact CDS support. 
 
 [1] CDS Content Policy [![DOI](https://repository.cern/badge/DOI/10.17181/8sm4v-js382.svg)](https://doi.org/10.17181/8sm4v-js382)
