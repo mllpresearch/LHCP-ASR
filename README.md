@@ -170,3 +170,10 @@ Use of the CERN Document Server service (hereafter "CDS") denotes agreement with
 If you have any questions or comments with respect to CDS, or if you are unsure whether your intended use is in line with these Terms and Conditions, or if you seek permission for a use that does not fall within these Terms and Conditions, please contact CDS support. 
 
 [1] CDS Content Policy [![DOI](https://repository.cern/badge/DOI/10.17181/8sm4v-js382.svg)](https://doi.org/10.17181/8sm4v-js382)
+
+
+LICENSE
+-------
+This dataset is licenced under CC-BY-NC-ND 4.0. To view a copy of this licence, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+See the [LICENSE](https://www.mllp.upv.es/lhcp-asr/LICENSE) file for the full licence texts.
