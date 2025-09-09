@@ -176,4 +176,4 @@ LICENSE
 -------
 This dataset is licenced under CC-BY-NC-ND 4.0. To view a copy of this licence, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-See the [LICENSE](https://www.mllp.upv.es/lhcp-asr/LICENSE) file for the full licence texts.
+See the [LICENSE](LICENSE) file for the full licence texts.
